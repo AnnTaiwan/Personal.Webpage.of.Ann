@@ -1,0 +1,47 @@
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Center the main content */
+h1 {
+    text-align: center;
+    color: #007BFF;
+    font-size: 36px;
+    margin-top: 50px;
+}
+
+h4 {
+    margin-left: 20px;
+    font-size: 24px;
+    color: #555;
+}
+
+p {
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Container for the content */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-top: 50px;
+}
